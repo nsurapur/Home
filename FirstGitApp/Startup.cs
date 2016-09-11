@@ -12,6 +12,7 @@ namespace FirstGitApp
     {
         public void Configuration(IAppBuilder app)
         {
+            //This configures auth
             ConfigureAuth(app);
         }
     }
