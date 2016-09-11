@@ -13,6 +13,8 @@ namespace FirstGitApp
         public void Configuration(IAppBuilder app)
         {
             //This configures auth
+
+            //This comment is from new NaveenMac branch
             ConfigureAuth(app);
         }
     }
