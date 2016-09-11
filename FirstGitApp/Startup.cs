@@ -15,6 +15,8 @@ namespace FirstGitApp
             //This configures auth
 
             //This comment is from new NaveenMac branch
+
+            //Third comment to verify
             ConfigureAuth(app);
         }
     }
